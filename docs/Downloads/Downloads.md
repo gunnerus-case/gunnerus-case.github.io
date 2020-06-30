@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DownLoads
+title: Downloads
 nav_order: 4
 has_children: true
 permalink: docs/Downloads
