@@ -5,4 +5,4 @@ parent: Demo Cases
 ---
 
 # Crane Operation
-This case demostrates the Palginer crane operation on Gunnerus. 
+This case demonstrates the Palfinger crane operation on Gunnerus.
