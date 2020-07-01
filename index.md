@@ -17,7 +17,7 @@ the early stages of a new build vessel project and throughout the vessel’s lif
 {% include figure.html 
     img="/assets/images/maritimedigitaltwinsdevelopment.png" 
     num="1" 
-    caption="Maritime Digital Twin for Development from Design to Operation" 
+    caption="Maritime digital twin for development from design to operation" 
 %}
 The goal of the research project is to develop digital twins of maritime systems and operations, 
 which is an open virtual simulator as the next generation of marine industrial infrastructure not only for overall system design, 
