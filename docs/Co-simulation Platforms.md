@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Co-simulation Platforms
-nav_order: 1
+nav_order: 2
 permalink: docs/Co-simulation Platforms
 has_toc: false
 has_children: true

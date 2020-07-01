@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publications
-nav_order: 5
+nav_order: 6
 permalink: docs/Publications
 has_toc: false
 ---
@@ -11,10 +11,9 @@ has_toc: false
 - Tongtong Wang, Guoyuan Li, Robert Skulstad, Vilmar Æsøy and Houxiang Zhang: An effective model-based thruster failure detection method for dynamically positioned ships, IEEE International Conference on Mechatronics and Automation (ICMA), accepted, 2020.
 - Luman Zhao, Guoyuan Li, Knut ReMøy, Baiheng Wu and Houxiang Zhang: Development of onboard decision supporting system for ship docking operations, in 15th IEEE Conference on Industrial Electronics and Applications (ICIEA), accepted, 2020.
 - Baiheng Wu, Guoyuan Li, Luman Zhao, Hans Petter Hildre,  and Houxiang Zhang: A human-expertise based statistical method for analysis of log data from a commuter ferry, in 15th IEEE Conference on Industrial Electronics and Applications (ICIEA), accepted, 2020.
-
 - Tongtong Wang, Guoyuan Li, Baiheng Wu, Vilmar Æsøy and Houxiang Zhang: Parameter identification of nonlinear ship maneuvering model using support vector machine method, International Conference on Ships and Offshore Structures, 2020, Accepted.
-- André Listou Ellefsen, Peihua Han, Xu Cheng, F. T. Holmeset, V. Æsøy, and Houxiang Zhang: Online Fault Detection in Autonomous Ferries: Using fault-type in-dependent spectral anomaly detection’, IEEE Transactions on Instrumentation and Measurement, pp. 1–1, 2020, DOI: 10.1109/TIM.2020.2994012
-- Lars Ivar Hatledal, Frederic Collonval and Houxiang Zhang: Enabling Python Driven Co-Simulation Models with PythonFMU, ECMS 2020 Proceedings, Communications of the ECMS , Volume 34, Issue 1, June 2020, DOI: 10.7148/2020-0235
+- André Listou Ellefsen, Peihua Han, Xu Cheng, F. T. Holmeset, V. Æsøy, and Houxiang Zhang: Online Fault Detection in Autonomous Ferries: Using fault-type in-dependent spectral anomaly detection’, IEEE Transactions on Instrumentation and Measurement, pp. 1–1, 2020, DOI: 10.1109/TIM.2020.2994012.
+- Lars Ivar Hatledal, Frederic Collonval and Houxiang Zhang: Enabling Python Driven Co-Simulation Models with PythonFMU, ECMS 2020 Proceedings, Communications of the ECMS , Volume 34, Issue 1, June 2020, DOI: 10.7148/2020-0235.
 - Yonghui Shuai, Guoyuan Li, Jinshan Xu and Houxiang Zhang: An effective ship control strategy for collision-free maneuver toward a dock, IEEE Access, DOI: 10.1109/ACCESS.2020.3001976.
 
 ## 2019
