@@ -7,8 +7,10 @@ permalink: /
 last_modified_date: 2020-04-27T17:54:08+0000
 ---
 
-# Digital Twin Ship
+# Digital Twin Ship 
 {: .fs-9 }
+**Digital Twins for Vessel Life Cycle Service**
+
 Today’s maritime engineering systems are operating in highly dynamic environments. The challenge is to
 develop a concept leveraging on the different levels of system specific services already provided by
 manufacturers, where safety and efficient performance of complex integrated systems can be managed from
@@ -34,14 +36,10 @@ life cycle service support, and system behavior prediction, Fig.2.
 This project will implement the research results into practical
 demonstrators using framework in design processes, training, system maintenance and life cycle service.
 There will be a strong industry involvement in the development of these demonstrators.  Demo simulators will be made at 
-[Offshore Simulation Centre](https://osc.no/) dome and NTNU's “Remote control lab” at NMK II, Fig. 3. 
+[Offshore Simulation Centre](https://osc.no/) dome and NTNU's [“Ship Operation Research Lab”](https://www.ntnu.edu/ihb/simulator), Fig. 3. 
 
 {% include figure.html 
-    img="/assets/images/simulator.bmp" 
+    img="/assets/images/simulator.jpg" 
     num="3" 
-    caption="NTNU - Remote Control Lab - Maritime Simulators" 
+    caption="NTNU Ship Operation Research Lab - Maritime Simulators" 
 %}
-
-**Project vision:** “A strong Norwegian marine industry through world leading competence and
-knowledge on simulation based design and digital simulation of complex maritime operations and
-maintenance”.
