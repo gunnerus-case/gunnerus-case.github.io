@@ -1,7 +1,15 @@
 # Development
+
+### Requirements
+
+1) Ruby: https://www.ruby-lang.org/en/downloads/
+2) Bundler: `gem install bundler`
+
+### Installation
+
 To set up your environment to develop this theme, run `bundle install`.
 
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at http://localhost:4000. 
+In order to run the webpage locally, run `bundle exec jekyll serve` and point your browser to http://localhost:4000. 
 
-webpage: 
+The webpage is hosted at: 
 http://gunnerus-case.github.io
