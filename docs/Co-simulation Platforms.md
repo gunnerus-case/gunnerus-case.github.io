@@ -47,6 +47,8 @@ The main use of this standard are:
 - Define a standardized way to store and apply parameters to these components.
 - Define a standardized format for the connection structure for a network of components.
 
+In order to ease the creation of SSP archives, the NTNU developed tool [sspgen](https://github.com/NTNU-IHB/SSP-DSL) may be utilized.
+
 ### Distributed Co-simulation
 
  Distributed co-simulation refers to the idea that a
