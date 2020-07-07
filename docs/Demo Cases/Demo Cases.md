@@ -7,6 +7,8 @@ permalink: docs/Demo Cases
 has_toc: false
 ---
 
+# Demo cases
+
 The demo cases use NTNU's research vessel - Gunnerus, Fig. 1.
 
 **Specifications of the Gunnerus vessel:**
