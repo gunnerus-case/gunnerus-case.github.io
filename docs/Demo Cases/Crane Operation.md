@@ -2,6 +2,7 @@
 layout: default
 title: Crane Operation
 parent: Demo Cases
+nav_order: 4
 ---
 
 # Crane Operation
