@@ -7,6 +7,8 @@ has_toc: false
 has_children: true
 ---
 
+# Co-simulation platforms
+
 A digital twin for cyber-physcal systems as complex as a ship comprises for components in several different domains. As much significant as the evolvement of modeling and simulation technologies in the product development lifecycle, no one simulation tool is suitable for all purposes.
 Co-simulation refers to an enabling technique, where different sub-systems making up a global
 simulation are being modeled and run in a distributed fashion. Each sub-system is a simulator and is broadly defined
