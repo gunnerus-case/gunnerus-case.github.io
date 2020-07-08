@@ -52,7 +52,7 @@ Interfaces and connections of these FMUs can be found in the configuration file 
  %}
  
 Palfinger crane operation in digital twin ship simulator, visualized by Offshore Simulation Center [(OSC)](https://osc.no/).
-<video src="/assets/videos/OSPv03.mp4" width="640" height="400" controls preload></video>
+<video src="/assets/videos/OSPv03.mp4" width="740" height="440" controls preload></video>
  
 ## References
 - Yingguang Chu, Guoyuan Li, Lars Ivar Hatledal, and Houxiang Zhang: Coupling of Dynamic Reaction Forces of a Heavy Load Crane and Ship Motion Responses in Waves, journal of Ships and Offshore Structures, accepted, 2020.
