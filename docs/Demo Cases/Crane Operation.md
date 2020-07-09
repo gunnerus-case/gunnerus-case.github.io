@@ -22,8 +22,8 @@ The Palfinger marine crane (PK 65002 M) has a compact design suitable for small 
 | :---: | :---: | :---:| :---: |:---: |:---: | :---: | :---: | :---:|
 |PK 65002 M|4-20.3|15100-2100|600-415.9|684.3|834|endless|300|4220-5960|
 
-This demo case of crane operation uses the following models of the Gunnerus twin, Tab.2. These includes all models in the DP case as crane operations can only be safely carried out when the ship is stable.
-The crane operation case has also compensation controllers for the crane and winch, although compensation systems are not available in the real systems. Use of the compensation controllers are optional. The crane controller can compensate the crane tip motion in 3DOF within its reach limits. The winch controller compensates the vertical motion of the load. 
+This demo case of crane operation uses the following models of the Gunnerus twin, Tab.2. These includes all sub-models(FMUs) in the DP case as crane operations can only be safely carried out when the ship is stable. The Palfinger crane, winch and load models are shipped as one FMU. 
+The crane operation case has also compensation controllers for the crane and winch, although compensation systems are not available on Gunnerus. The crane controller can compensate the crane tip motion in 3DOF within its reach limits. The winch controller compensates the vertical motion of the load. 
 Interfaces and connections of these FMUs can be found in the configuration file [SSP definitions](https://github.com/gunnerus-case/sspgen-definitions). 
 
 **Table 2:** *FMUs*
@@ -43,13 +43,6 @@ Interfaces and connections of these FMUs can be found in the configuration file 
  | Winch Controller| AHCController  |Load vertical motion compensation using the winch|
  | Crane Controller|TipController | Crane tip controller for compensation using the crane |
  | Crane Tip Setpoint|TipSetPoint | Crane tip reference speed for compensation using the crane |
- 
- 
- {% include figure.html 
-     img="/assets/images/palfinger2.png" 
-     num="2" 
-     caption="Palfinger crane in subsea installation" 
- %}
  
 Palfinger crane operation in digital twin ship simulator, visualized by Offshore Simulation Center [(OSC)](https://osc.no/).
 <video src="/assets/videos/OSPv03.mp4" width="740" height="440" controls preload></video>
