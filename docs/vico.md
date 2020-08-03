@@ -9,7 +9,7 @@ parent: Co-simulation Platforms
 
 ##  Vico
 
-Vico is a novel open-source co-simulation framework based on the [Entity-Component-System](https://en.wikipedia.org/wiki/Entity_component_system) software architecture.
+[Vico](https://github.com/NTNU-IHB/Vico) is a novel open-source co-simulation framework based on the [Entity-Component-System](https://en.wikipedia.org/wiki/Entity_component_system) software architecture.
 Vico allows co-simulation between not only FMI slaves, but between physics engines, FMI masters and generic systems. Furthermore, 3D visulisation and 2D plotting is integrated into the framework. And of course, simulation data can be exported as CSV files. Some of the highlights for this framework are as follows:
 
 * Support for FMI 1.0 & 2.0 for co-simulation.
