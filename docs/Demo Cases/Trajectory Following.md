@@ -5,7 +5,7 @@ parent: Demo Cases
 nav_order: 2
 ---
 # Trajectory Following 
-This case demostrates the tracjory following of the Gunnerus ship.
+This case demostrates the trajectory following of the Gunnerus ship.
 
 **Table 1:** *FMUs*
 
