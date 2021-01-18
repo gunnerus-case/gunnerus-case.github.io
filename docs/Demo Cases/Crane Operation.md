@@ -52,3 +52,5 @@ Palfinger crane operation in digital twin ship simulator, visualized by Offshore
 - Yingguang Chu, Guoyuan Li and Houxiang Zhang: Incorporation of ship motion prediction into active heave compensation for offshore crane operation, in 15th IEEE Conference on Industrial Electronics and Applications (ICIEA), accepted, 2020.
 - Yingguang Chu, Birger Skogeng Pedersen, and Houxiang Zhang. "Virtual prototyping for maritime winch design and operations based on functional mock-up interface co-simulation." Ships and Offshore Structures 14, no. sup1 (2019): 261-269.
 - Yingguang Chu, Lars Ivar Hatledal, Houxiang Zhang, Vilmar Æsøy, and Sören Ehlers. "Virtual prototyping for maritime crane design and operations." Journal of marine science and technology 23, no. 4 (2018): 754-766.
+- S. Skjong, M. Rindarøy, L. T. Kyllingstad, V. Æsøy, and E. Pedersen, “Virtual prototyping of maritime systems and operations: applications of distributed co-simulations,” J. Mar. Sci. Technol., pp. 1–19, 2017.  
+- S. Skjong and E. Pedersen, “A real-time simulator framework for marine power plants with weak power grids,” Mechatronics, vol. 47, pp. 24–36, Nov. 2017.  
