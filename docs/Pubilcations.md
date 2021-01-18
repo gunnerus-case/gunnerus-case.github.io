@@ -6,7 +6,11 @@ permalink: docs/Publications
 has_toc: false
 ---
 
+## 2021
+- Lars Ivar Hatledal, Yingguang Chu, Arne Styve, Houxiang Zhang. Vico: An entity-component-system based co-simulation framework. Simulation modelling practice and theory. vol. 108, April 2021, DOI: 10.1016/j.simpat.2020.102243
+
 ## 2020
+- Lars Ivar Hatledal, Robert Skulstad, Guoyuan Li, Arne Styve, Houxiang Zhang.Co-simulation as a Fundamental Technology for Twin Ships. Modeling, Identification and Control. vol. 41 (4), December 2020, DOI: 10.4173/mic.2020.4.2
 - Xu Cheng, Guoyuan Li, André Listou Ellefsen, Shengyong Chen, Hans Petter Hildre and Houxiang Zhang: A novel densely connected convolutional neural network for sea state estimation using ship motion data, IEEE Transactions on Instrumentation and Measurement, 2020, DOI: 10.1109/TIM.2020.2967115. 
 - Tongtong Wang, Guoyuan Li, Robert Skulstad, Vilmar Æsøy and Houxiang Zhang: An effective model-based thruster failure detection method for dynamically positioned ships, IEEE International Conference on Mechatronics and Automation (ICMA), accepted, 2020.
 - Luman Zhao, Guoyuan Li, Knut ReMøy, Baiheng Wu and Houxiang Zhang: Development of onboard decision supporting system for ship docking operations, in 15th IEEE Conference on Industrial Electronics and Applications (ICIEA), accepted, 2020.
